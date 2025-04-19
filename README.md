@@ -8,6 +8,12 @@ In this project, we have
                       dimensions exploration,
                       measures exploration,
                       date exploration,
-                      magnitude analysis and
-                      ranking analysis.
+                      magnitude analysis,
+                      ranking analysis,
+                      change over time analysis,
+                      cummulative analysis,
+                      performance analysis,
+                      part to whole proportional analysis and 
+                      data segmantation
+5. Finally, created views to build customer and product reports.
                       
